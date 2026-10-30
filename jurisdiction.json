@@ -1,0 +1,11 @@
+{
+  "path": "ru-kb",
+  "code": "RU-KB",
+  "name": "Kabardino-Balkarian Republic",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-kabardino-balkaria-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
