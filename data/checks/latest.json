@@ -1,0 +1,92 @@
+{
+ "generated": "2026-11-24T13:43:36Z",
+ "latest": {
+  "pravo-kabardino-balkaria|russia/kabardino-balkaria/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 2,
+    "match_old": 0,
+    "method": "each sampled entry's own record on the portal (/api/Document?eoNumber=...), its title, number and date signed against the listing's",
+    "sampled": 2
+   },
+   "census": {
+    "checked": 648,
+    "current": 643,
+    "gone": 0,
+    "held": 643,
+    "newest_in_repo": "2026-10-15",
+    "pending": 5,
+    "repo": 643,
+    "source_in_scope": 648
+   },
+   "check_id": "ru-pravo-kabardino-balkaria-20261124T133821Z",
+   "commits": {
+    "count": 2,
+    "from": "d17e6c88bfe8258900b24d6e6047d35a987234f4",
+    "to": "74a0dea7c58b47e065ecec281f1b8253d441214e"
+   },
+   "corpus": "russia/kabardino-balkaria/acts",
+   "error": null,
+   "finished": "2026-11-24T13:43:35Z",
+   "flags": [],
+   "gap": 0,
+   "note": "publication.pravo.gov.ru, block region07: 648 law-type documents listed (every page read); 643 held here; 5 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
+   "published": {
+    "added": [
+     "0700202611060001",
+     "0700202611060002",
+     "0700202611060004",
+     "0700202611060005",
+     "0700202611060006"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 8,
+   "runner": "lawwatch russia (65e3dde363)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [
+     "0700202611060001",
+     "0700202611060002",
+     "0700202611060004",
+     "0700202611060005",
+     "0700202611060006"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "648 law-type documents in block region07; newest published 2026-11-06",
+   "source": "pravo-kabardino-balkaria",
+   "started": "2026-11-24T13:38:21Z",
+   "unexplained": 0,
+   "update": {
+    "append": {
+     "commits": 1,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261124-001.json"
+    ]
+   },
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "held": 12,
+    "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
+    "ok": true,
+    "swept": 12,
+    "versions_checked": 239,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
