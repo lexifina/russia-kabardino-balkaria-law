@@ -1,6 +1,6 @@
 # Kabardino-Balkarian Republic: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 14 versions, from 2026-01-03 (latest in force: 2026-10-15) · <http://publication.pravo.gov.ru/documents/block/region07>
+Законы 2026 · 15 versions, from 2026-01-03 (latest in force: 2026-11-06) · <http://publication.pravo.gov.ru/documents/block/region07>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -29,6 +29,11 @@
 | Закон № 3-РЗ | [3-rz.md](3-rz.md) | 1 | 2026-02-18 |
 | Закон № 30-РЗ | [30-rz.md](30-rz.md) | 1 | 2026-10-15 |
 | Закон № 31-РЗ | [31-rz.md](31-rz.md) | 1 | 2026-10-15 |
+| Закон № 33-РЗ | [33-rz.md](33-rz.md) | 1 | 2026-11-06 |
+| Закон № 34-РЗ | [34-rz.md](34-rz.md) | 1 | 2026-11-06 |
+| Закон № 35-РЗ | [35-rz.md](35-rz.md) | 1 | 2026-11-06 |
+| Закон № 36-РЗ | [36-rz.md](36-rz.md) | 1 | 2026-11-06 |
+| Закон № 37-РЗ | [37-rz.md](37-rz.md) | 1 | 2026-11-06 |
 | Закон № 4-РЗ | [4-rz.md](4-rz.md) | 1 | 2026-03-10 |
 | Закон № 5-РЗ | [5-rz.md](5-rz.md) | 1 | 2026-03-16 |
 | Закон № 54-РЗ | [54-rz.md](54-rz.md) | 0 |  |
