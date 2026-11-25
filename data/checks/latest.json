@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T13:43:36Z",
+ "generated": "2026-11-25T06:59:10Z",
  "latest": {
   "pravo-kabardino-balkaria|russia/kabardino-balkaria/acts": {
    "attempt": 1,
@@ -13,68 +13,42 @@
    },
    "census": {
     "checked": 648,
-    "current": 643,
+    "current": 648,
     "gone": 0,
-    "held": 643,
-    "newest_in_repo": "2026-10-15",
-    "pending": 5,
-    "repo": 643,
+    "held": 648,
+    "newest_in_repo": "2026-11-06",
+    "pending": 0,
+    "repo": 648,
     "source_in_scope": 648
    },
-   "check_id": "ru-pravo-kabardino-balkaria-20261124T133821Z",
-   "commits": {
-    "count": 2,
-    "from": "d17e6c88bfe8258900b24d6e6047d35a987234f4",
-    "to": "74a0dea7c58b47e065ecec281f1b8253d441214e"
-   },
+   "check_id": "ru-pravo-kabardino-balkaria-20261125T053013Z",
+   "commits": null,
    "corpus": "russia/kabardino-balkaria/acts",
    "error": null,
-   "finished": "2026-11-24T13:43:35Z",
+   "finished": "2026-11-25T05:30:43Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region07: 648 law-type documents listed (every page read); 643 held here; 5 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region07: 648 law-type documents listed (every page read); 648 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "0700202611060001",
-     "0700202611060002",
-     "0700202611060004",
-     "0700202611060005",
-     "0700202611060006"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 8,
+   "requests": 7,
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "0700202611060001",
-     "0700202611060002",
-     "0700202611060004",
-     "0700202611060005",
-     "0700202611060006"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "648 law-type documents in block region07; newest published 2026-11-06",
    "source": "pravo-kabardino-balkaria",
-   "started": "2026-11-24T13:38:21Z",
+   "started": "2026-11-25T05:30:13Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
