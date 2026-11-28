@@ -6,7 +6,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Kabardino-Balkarian Republic: Official Internet Portal of Legal Information (region07) · `russia/kabardino-balkaria/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-27 05:22 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-28 05:31 UTC**.
 - Acts held here: 648; current at the source: 648; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
